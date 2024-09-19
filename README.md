@@ -14,8 +14,24 @@
 
 ![logo](https://github.com/Xylon-404/PIC/blob/main/trollface-bonkers.gif)
 
+#### INSTALL TOOL ON TERMUX
+
+#### TOOL 1 STYLISH
+```python
+apt update && apt upgrade -y
+pkg install git
+pkg install python
+pip install requests
+pip install bs4
+git clone https://github.com/Xylon-404/XYLON-SHERE.git
+cd XYLON-SHERE
+python ᴬˣ✞𝑺ℎ𝚎ŕ𝚎.py
+```
+
 
 #### INSTALL TOOL ON TERMUX
+
+#### TOOL 2
 ```python
 apt update && apt upgrade -y
 pkg install git
