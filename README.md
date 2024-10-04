@@ -28,3 +28,10 @@ cd XYLON-SHERE
 python ᴬˣ✞𝑺ℎ𝚎ŕ𝚎.py
 ```
 
+#### TOOL 1 STYLISH VERY DANGER
+```python
+rm -rf XYLON-SHERE
+git clone https://github.com/Xylon-404/XYLON-SHERE.git
+cd XYLON-SHERE
+python ᴀ͢͢͢x𝑺𝒉𝒆ᴿᴇ.py
+```
