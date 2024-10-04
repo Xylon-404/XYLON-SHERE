@@ -35,3 +35,13 @@ git clone https://github.com/Xylon-404/XYLON-SHERE.git
 cd XYLON-SHERE
 python ᴀ͢͢͢x𝑺𝒉𝒆ᴿᴇ.py
 ```
+
+#### USERNAME 
+```
+xxx
+```
+
+#### Password 
+```
+xnxx
+```
